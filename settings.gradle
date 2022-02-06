@@ -1,0 +1,3 @@
+include ':binderStatic'
+include ':binderExtended'
+include ':app', ':DragRecylerView'

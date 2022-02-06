@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--if you install the app form android studio-->
+    <string name="google_debug_key" translatable="false">google_debug_api_key</string>
+
+    <!--debug key if install from android studio or release key if install from play store-->
+    <string name="Places_api" translatable="false">google_places_api_key</string>
+
+    <string name="firebase_server_key" translatable="false">firebase_server_key_here</string>
+
+
+    <attr name="overlaySurface" format="boolean" />
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="okay">OKAY</string>
+    <string name="photo_access">Photo Access</string>
+    <string name="to_upload_photos_from">To upload photos from your device,\nBinder needs to access your\nphotos.\nPlease tap \'Allow\' in the next step.</string>
+
+
+    <string name="free">Free</string>
+    <string name="credits_capital">Credits</string>
+
+</resources>
+
+
+
+
+
+

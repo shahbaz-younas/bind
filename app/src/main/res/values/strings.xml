@@ -1,0 +1,381 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" translatable="false">Binder</string>
+
+    <string name="facebook_app_id" translatable="false">fb_id</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb(fb_id)</string>
+
+    <string name="google_web_client_id" translatable="false">google_web_client_id</string>
+
+    <string name="admob_appid" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="my_Interstitial_Add" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="my_Rewarded_Add" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+
+
+    <!--if you install the app form android studio-->
+    <string name="google_debug_key" translatable="false">google_debug_api_key</string>
+
+    <!--debug key if install from android studio or release key if install from play store-->
+    <string name="Places_api" translatable="false">google_places_api_key</string>
+
+    <string name="firebase_server_key" translatable="false">firebase_server_key_here</string>
+
+
+
+    <string name="device" translatable="false">android</string>
+
+    <attr name="overlaySurface" format="boolean" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="language_names_for_show">
+        <item>English</item>
+        <item>العربية</item>
+    </string-array>
+
+    <string-array name="language_code">
+        <item>en</item>
+        <item>ar</item>
+    </string-array>
+
+
+    <string name="english" translatable="false">English</string>
+
+    <string name="chat">Chat</string>
+    <string name="send_message_here">Send Message Here...</string>
+
+    <string name="enable_location">Enable location</string>
+    <string name="you_ll_need_to_enable_your_location_n_in_order_to_use_binder">You\'ll need to enable your location\n in order to use Binder</string>
+    <string name="allow_location">Allow Location</string>
+
+
+    <string name="first_name">First Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="next">Next</string>
+
+
+    <string name="unlimited_rewinds">Unlimited Rewinds</string>
+    <string name="free_superlike_a_day">5 Free SuperLikes A Day</string>
+    <string name="unlimited_boost">Unlimited Boost</string>
+    <string name="_19_99">$19.99</string>
+    <string name="per_month">Per Month</string>
+    <string name="_29_99">$29.99</string>
+    <string name="_3_months">3 months</string>
+    <string name="_69_99">$69.99</string>
+    <string name="_1_year">1 year</string>
+    <string name="continue_txt">Continue</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="subscription_txt">By tapping “Continue”, your payment will be charged to your Google Play
+        account, and your subscription will automatically renew for the same
+        package length at the same price until you cancel it in settings in the
+        Google Play store at least 24 hours prior to the end of the current period.
+        By tapping “Continue”, you agree to our Privacy Policy and Terms.</string>
+    <string name="recuring_billing_cancel_anytime">Recuring billing, cancel anytime.</string>
+
+
+    <string name="login_description_1">Discover new and interesting\n people nearby</string>
+    <string name="login_description_2">Swipe right to like someone\n or swipe left to pass</string>
+    <string name="login_description_3">If they also swipe right then it\'s a match!</string>
+    <string name="continue_with_facebook">Continue with facebook</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_phone">Continue with Phone / email </string>
+    <string name="we_don_t_post_anything_to_facebook">We don\'t Post anything to Facebook.</string>
+
+
+    <string name="phone_number">Phone Number</string>
+    <string name="location">Location</string>
+    <string name="save_location">Save Location</string>
+
+
+    <string name="introducting_binder_boost">Introducing Binder Boost</string>
+    <string name="skip_the_line">Skip the Line</string>
+    <string name="be_the_top_profile_in_your_area_for_30_minutes_and_get_more_watchs">Be the top profile in your area for 30 minutes and get more watchs</string>
+    <string name="boost_me">Boost Me</string>
+    <string name="_08_85_remaining">00:00 Remaining</string>
+    <string name="you_re_being_seen_by_more_people_keep_swiping_for_the_best_results">You\'re being seen by more people.Keep swiping for the best results!</string>
+
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="about_profile_name">About</string>
+    <string name="about">About You</string>
+    <string name="job_title">Job Title</string>
+    <string name="company">Company</string>
+    <string name="gender">Gender</string>
+
+    <string name="new_matches">New Matches</string>
+    <string name="_0_likes">0 Likes</string>
+    <string name="no_other_match_found_yet">No other Match Found yet.</string>
+    <string name="message">Message</string>
+
+    <string name="it_s_match">it\'s Match!</string>
+    <string name="you_and_alison_likes_each_other">you and alison likes each other</string>
+    <string name="send_a_message">Send a Message</string>
+
+    <string name="settings">Settings</string>
+
+
+    <string name="swiping_in">Swiping in</string>
+    <string name="my_current_location">My Current Location</string>
+    <string name="add_new_location">Add New Location</string>
+    <string name="show_me">Show me</string>
+    <string name="men">Men</string>
+    <string name="women">Women</string>
+    <string name="maximum_distance">Maximum Distance</string>
+    <string name="mile">mile</string>
+    <string name="miles">miles</string>
+    <string name="age_range">Age Range</string>
+    <string name="year">Year</string>
+    <string name="years">Years</string>
+    <string name="show_me_on_binder">Show me On Binder</string>
+    <string name="don_t_show_my_age">Don\'t show my Age</string>
+    <string name="make_my_distance_invisible">Make my Distance Invisible</string>
+    <string name="legal">Legal</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete Account</string>
+
+
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+
+
+    <string name="username">Username</string>
+    <string name="your_message">Your Message</string>
+
+
+    <string name="report">Report</string>
+
+    <string name="get_the_rewind">Get the Rewind</string>
+    <string name="are_you_sure">Are you Sure?</string>
+
+    <string name="delete_account_description">Delete an Account will Erase all of your data Completely</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    <string name="are_you_sure_report_user">Are you sure to Report this user?</string>
+    <string name="delete_this_message">Delete this message</string>
+    <string name="unmatch_this_user">Unmatch this User</string>
+    <string name="unblock_this_user">Unblock this User</string>
+    <string name="block_this_user">Block and Report</string>
+
+
+    <string name="calling">Calling...</string>
+    <string name="reconnecting_to">Reconnecting to</string>
+    <string name="reconnecting">Reconnecting</string>
+    <string name="connected_to">Connected to</string>
+    <string name="connected">Connected</string>
+    <string name="failed_to_connect">Failed to connect</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="disconnected_from">Disconnected from</string>
+    <string name="audio_connected">Audio Connected</string>
+    <string name="audio_unpublished">Audio Unpublished</string>
+    <string name="video_connected">Video Connected</string>
+    <string name="video_unpublished">Video Unpublished</string>
+    <string name="audio_subscribed">Audio Subscribed</string>
+    <string name="audio_unsubscribed">Audio Unsubscribed</string>
+    <string name="audio_subscription_failed">Audio Subscription Failed</string>
+    <string name="video_subscribed">Video Subscribed</string>
+    <string name="video_unsubscribed">Video Unsubscribed</string>
+    <string name="video_subscription_failed">Video Subscription Failed</string>
+    <string name="joined">" joined"</string>
+    <string name="ringing">Ringing...</string>
+    <string name="alert">Alert</string>
+    <string name="voice_reah_limit">You have reached out of your Voice Call limit.</string>
+    <string name="video_reach_limit">You have reached out of your Video Call limit.</string>
+
+    <string name="done">Done</string>
+    <string name="no_internet">No Internet. Connect to wifi or cellular network.</string>
+    <string name="discovery_settings">Discovery Settings</string>
+    <string name="language">Language</string>
+    <string name="upgrade_to_gold_to_see_people_n_who_already_likes_you">Upgrade to Gold to see people\n Who already likes you.</string>
+    <string name="no_other_users_like_your_profile_so_far_subscribe_us_and_boost_your_profile_so_more_user_can_see_you">No other users like your profile so far. Subscribe us and boost your profile so more user can see you.</string>
+    <string name="see_who_likes_you">See who likes you</string>
+
+
+    <string name="login">Log In</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="please_grant_permission">Please Grant permission</string>
+    <string name="resend_code">Resend code </string>
+    <string name="code_is_invalid">Code is Invalid</string>
+    <string name="your_code_was_emailed_to">Your code was emailed to </string>
+    <string name="login_cancel">Login Cancel</string>
+    <string name="please_enter_valid_new_password">Please enter valid new password</string>
+    <string name="please_enter_valid_password">Please enter valid password</string>
+    <string name="login_error">Login Error</string>
+    <string name="error">Error</string>
+    <string name="create_password">Create password</string>
+    <string name="use_characters_from_at_least_">Use 8-20 characters from at least 2 categories: letters, numbers, special characters</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="we_ll_email_you_a_code">We\'ll email you a code to reset your password.</string>
+    <string name="email_address">Email address</string>
+    <string name="reset">Reset</string>
+    <string name="enter_4_digit_code">Enter 4\ndigit Code</string>
+    <string name="invalid_phone_number">Invalid Phone Number</string>
+    <string name="select_country">Select Country</string>
+    <string name="your_code_was_sent_to">Your code was sent to</string>
+    <string name="please_Wait">Please Wait</string>
+    <string name="recording">Recording...</string>
+    <string name="hold_Mic_Button_to_Record">Hold Mic Button to Record</string>
+    <string name="stop_Recording">Stop Recording...</string>
+    <string name="for_demo_purpose">For demo purpose we only allow to </string>
+    <string name="choose_from_Gallery">Choose from Gallery</string>
+    <string name="tap_again">Tap again</string>
+    <string name="camera_permission_denied">Camera permission denied</string>
+    <string name="are_you_sure_to_delete_this_picture">Are you sure to delete this picture ?</string>
+    <string name="show_on_Card_text">while turned off,you will not be shown in the card stack. People you have already liked may still see your profile and match with you. You can still see and chat with your matches.</string>
+    <string name="ager_preference_txt">Binder uses these preference to suggest matches. some match suggestion may not fall within your desired paramenters.</string>
+    <string name="terms_of_services">Terms of Services</string>
+
+    <string name="licenses">Licenses</string>
+
+    <string name="version">Version</string>
+    <string name="help_support"><![CDATA[Help & support]]></string>
+
+    <string name="miles_away"> miles away</string>
+    <string name="km_away"> Km away</string>
+    <string name="GETBINDERPLUS">GET BINDER PLUS</string>
+    <string name="Seewholikesyoumore">See who likes you &amp; more!</string>
+    <string name="Getmatchesfaster">Get matches faster</string>
+    <string name="StandoutwithSuperLikes">Stand out with Super Likes</string>
+    <string name="Youre3timesmorelikelyogetamatch">You\'re 3 times more likely to get a match!</string>
+    <string name="Likeprofilesaroundtheworld">Like profiles around the world</string>
+    <string name="PassporttoanywherewithBinderPlus">Passport to anywhere with Binder Plus®!</string>
+    <string name="ControlYourProfile">Control Your Profile</string>
+    <string name="LimitwhatotherseewithBinderPlus">Limit what other see with Binder Plus®</string>
+    <string name="RewindyourLikeorNope">Rewind your Like or Nope</string>
+    <string name="GetunlimitedRewindswithBinderPlus">Get unlimited Rewinds with Binder Plus®!</string>
+    <string name="GetunlimitedlikeswithBinderPlus">Get unlimited likes with Binder Plus®!</string>
+    <string name="Increaseyourchances">Increase your chances</string>
+
+    <string name="About">About</string>
+    <string name="passions">Passions</string>
+    <string name="edit_info">EDIT INFO</string>
+    <string name="add_media">ADD MEDIA</string>
+    <string name="photo_tip_want_more_matches_ditch_the_selfie">Photo tip: want more matches? Ditch the selfie</string>
+    <string name="my_binder_plus">MY BINDER PLUS®</string>
+    <string name="school">School</string>
+
+    <string name="show_distance_in">Show Distance in</string>
+    <string name="km">Km.</string>
+    <string name="mi">Mi.</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="search">Search</string>
+    <string name="matches">matches</string>
+
+    <string name="error_occurred">An error occurred. We\'re deeply sorry.</string>
+    <string name="error_details">Error Details</string>
+    <string name="restart_app">Restart app</string>
+    <string name="add_university">Add University</string>
+    <string name="add_company">Add Company</string>
+    <string name="add_job_title">Add job title</string>
+    <string name="add_passions">Add passions</string>
+
+    <string name="okay">OKAY</string>
+    <string name="yes_cap">YES</string>
+    <string name="doyouwanttoremove">Do you want to remove passions?</string>
+    <string name="thiswillremove">This will remove your selected passions from your profile.</string>
+    <string name="youmustselect">You must select a minimum of 3 passions.</string>
+    <string name="todisplaypassions">To display passions on your profile, you must select at least 3 passions.</string>
+    <string name="edit_passions">Edit passions</string>
+    <string name="passions_makes_it_easier">Passions makes it easier to find who shares your interests. And 3-5 to your profile to make better connections.</string>
+    <string name="passions_capital">PASSIONS</string>
+    <string name="cancel_capi">CANCEL</string>
+    <string name="edit_university_info">Edit university info</string>
+    <string name="my_nuniversity_is">My\nuniversity is</string>
+    <string name="photo_access">Photo Access</string>
+    <string name="to_upload_photos_from">To upload photos from your device,\nBinder needs to access your\nphotos.\nPlease tap \'Allow\' in the next step.</string>
+    <string name="report_">Report :</string>
+    <string name="report_description_optional">Report Description(Optional)</string>
+    <string name="tell_us_why_this">Tell us why this content is being reported. All supoorting content should be relevant to the ad being reported</string>
+    <string name="submit">Submit</string>
+    <string name="select_a_reason">Select a reason</string>
+    <string name="boost">Boost </string>
+    <string name="save_14">SAVE 14%</string>
+    <string name="save_34">SAVE 34%</string>
+    <string name="recently_active">Recently active</string>
+    <string name="for_audio_or_video">For Audio or Video call\nBinder needs to access your Camera and Microphone.\nPress tap Allow in next step.</string>
+    <string name="camera_and_microphone_access">Camera and Microphone Access</string>
+
+
+    <string name="boostDescription">You need</string>
+    <string name="boostDescription1">credit to get more matches.\nTop-up credits now - the more you buy\nthe cheaper they are.</string>
+    <string name="videocall">Video Call</string>
+    <string name="videocallDescription">You need</string>
+    <string name="videocallDescription1">credit to do a video call.\nTop-up credits now - the more you buy\nthe cheaper they are.</string>
+    <string name="superlike">SuperLike</string>
+    <string name="superlikeDescription">Make a bold first move and show someone how interested you are. Top-up credits now - the more you buy the cheaper they are.</string>
+    <string name="boost_with_wallet">BOOST WITH WALLET</string>
+    <string name="_1_boost_with_">(1 boost with </string>
+    <string name="coins_">coins)</string>
+    <string name="or">or</string>
+    <string name="get_binder_gold">GET BINDER GOLD</string>
+    <string name="_1_free_boost_every_month">(1 free boost every month)</string>
+    <string name="from">from </string>
+    <string name="credits">credits</string>
+    <string name="videos">videos</string>
+    <string name="get_free_credits">Get Free Credits</string>
+    <string name="pick_one_of_the_below_options_and_receive_nfree_credits">Pick one of the below options and receive\nfree credits!</string>
+    <string name="free">Free</string>
+    <string name="credits_capital">Credits</string>
+    <string name="Remaining">Remaining</string>
+    <string name="_1_superlike_with">(1 SuperLike with</string>
+    <string name="_5_free_superlikes_every_day">(5 free SuperLikes every day)</string>
+    <string name="continue_capital">CONTINUE</string>
+    <string name="make_a_bold_first_move_and_show_someone_how_interested_you_are">Make a bold first move and show someone how interested you are.</string>
+    <string name="binder_Plus">Binder Plus</string>
+    <string name="binder_Plus_saves_time">Binder Plus saves time by letting you see who Likes you. Unlimited Match, pass and much more</string>
+    <string name="binder_Boost">Binder Boost</string>
+    <string name="binder_Boost_allows_you_to">Binder Boost allows you to be one of the top profiles in your area for 30 minutes</string>
+    <string name="buy_Now">Buy Now</string>
+    <string name="binder_Credits">Binder Credits</string>
+    <string name="binder_Credits_are_an">Binder Credits are an in-app currency that lets you buy Super Powers</string>
+    <string name="upgrade_from">Upgrade from</string>
+    <string name="for_video_Call">for video Call</string>
+    <string name="for_voice_Call">for voice Call</string>
+
+    <string name="likes">Likes</string>
+
+    <string name="you_and"> You and </string>
+    <string name="like_each_other"> Like each other</string>
+    <string name="add">Add</string>
+
+    <string name="suggested_accounts">Suggested accounts</string>
+    <string name="add_photos">Add Photos</string>
+    <string name="add_at_least_2_photos_to_continue">Add at least 2 photos to continue</string>
+    <string name="my_nbirthday_is">My\nbirthday is</string>
+    <string name="your_age_will_be_public">Your age will be public</string>
+    <string name="log_in">Log In</string>
+    <string name="my_first_nname_is">My first \nname is</string>
+    <string name="this_is_how_it_will_appear_in_binder_and_you_will_not_be_able_to_change_it">This is how it will appear in Binder, and you will not be able to change it</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="i_am_a">I am a</string>
+    <string name="show_my_gender_on_my_profile">Show my gender on my profile</string>
+    <string name="woman">WOMAN</string>
+    <string name="man">MAN</string>
+    <string name="everyone">EVERYONE</string>
+    <string name="log_in_capital">LOG IN</string>
+    <string name="skip">SKIP</string>
+    <string name="my_nschool_is">My \nSchool is</string>
+    <string name="school_name">School Name</string>
+    <string name="this_is_how_it_will">This is how it will appear in Binder, and you will not be able to change it</string>
+    <string name="my_nuniversity_is_endline">My\nuniversity is</string>
+    <string name="let_everyone_know_what_you_re">Let everyone know what you\'re passionate about by adding it to your profile.</string>
+    <string name="continue_0_5">CONTINUE (0/5)</string>
+    <string name="my_password_nis">My password \nis</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="my_phone_nnumber_is">My phone\nnumber is</string>
+    <string name="enter_4_ndigit_code">Enter 4\ndigit Code</string>
+    <string name="my_sexual_norientation_is">My sexual\norientation is</string>
+    <string name="select_up_to_3">Select up to 3</string>
+    <string name="show_my_orientation_on_my_profile">Show my orientation on my profile</string>
+</resources>
+
+
+
+
+
+

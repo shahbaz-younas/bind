@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.giphy.sdk:ui:2.1.16@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2a8ab1b938c4c05f74473f53adc1810a/jetified-ui-2.1.16/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2a8ab1b938c4c05f74473f53adc1810a/jetified-ui-2.1.16/jars/libs/omsdk-android-1.2.13-Giphy.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2a8ab1b938c4c05f74473f53adc1810a/jetified-ui-2.1.16/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2a8ab1b938c4c05f74473f53adc1810a/jetified-ui-2.1.16/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

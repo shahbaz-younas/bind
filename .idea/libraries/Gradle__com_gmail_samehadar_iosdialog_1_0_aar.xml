@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.gmail.samehadar:iosdialog:1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/34313ae1ac5a0e0b020dca83252f7758/jetified-iosdialog-1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/34313ae1ac5a0e0b020dca83252f7758/jetified-iosdialog-1.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/34313ae1ac5a0e0b020dca83252f7758/jetified-iosdialog-1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.gmail.samehadar/iosdialog/1.0/1dbe3285972aa869819fdaa13b91ee1fd94e48e3/iosdialog-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.gmail.samehadar/iosdialog/1.0/f756b9c1cc9c051d751f308f2b905b61277e3bea/iosdialog-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

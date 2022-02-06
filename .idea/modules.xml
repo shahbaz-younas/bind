@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Binder-Extended.iml" filepath="$PROJECT_DIR$/.idea/modules/Binder-Extended.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DragRecylerView/Binder-Extended.DragRecylerView.iml" filepath="$PROJECT_DIR$/.idea/modules/DragRecylerView/Binder-Extended.DragRecylerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Binder-Extended.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Binder-Extended.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/binderExtended/Binder-Extended.binderExtended.iml" filepath="$PROJECT_DIR$/.idea/modules/binderExtended/Binder-Extended.binderExtended.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/binderStatic/Binder-Extended.binderStatic.iml" filepath="$PROJECT_DIR$/.idea/modules/binderStatic/Binder-Extended.binderStatic.iml" />
+    </modules>
+  </component>
+</project>

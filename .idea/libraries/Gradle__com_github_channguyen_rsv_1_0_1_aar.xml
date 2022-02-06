@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.channguyen:rsv:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/98df3d38f7608222921c65f03affb59f/jetified-rsv-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/98df3d38f7608222921c65f03affb59f/jetified-rsv-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/98df3d38f7608222921c65f03affb59f/jetified-rsv-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.channguyen/rsv/1.0.1/2b28f36de1c843f3ba825c6d8b81833baa693482/rsv-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.channguyen/rsv/1.0.1/e0e01397499811645cca5df69e0ebf3b5c86ffbb/rsv-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

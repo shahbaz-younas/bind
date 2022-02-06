@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twilio:video-android:4.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/14d455ece2e2c227070239104162f01e/jetified-video-android-4.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/14d455ece2e2c227070239104162f01e/jetified-video-android-4.2.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/14d455ece2e2c227070239104162f01e/jetified-video-android-4.2.0/jars/libs/libwebrtc.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/14d455ece2e2c227070239104162f01e/jetified-video-android-4.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/14d455ece2e2c227070239104162f01e/jetified-video-android-4.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.twilio/video-android/4.2.0/ffc70b83c8d9e2e689b08496636d98d4100a7415/video-android-4.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.twilio/video-android/4.2.0/c7c30d465e3ae7da774cdda551d61b0a99cfab7e/video-android-4.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

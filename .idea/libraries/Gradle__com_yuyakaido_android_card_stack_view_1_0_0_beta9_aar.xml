@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yuyakaido.android:card-stack-view:1.0.0-beta9@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a993334fa7c98c9eecb64fecb5cb39a3/jetified-card-stack-view-1.0.0-beta9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a993334fa7c98c9eecb64fecb5cb39a3/jetified-card-stack-view-1.0.0-beta9/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a993334fa7c98c9eecb64fecb5cb39a3/jetified-card-stack-view-1.0.0-beta9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.yuyakaido.android/card-stack-view/1.0.0-beta9/9df31025349ea9617ff822e64d6eeb09604bb8ea/card-stack-view-1.0.0-beta9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.yuyakaido.android/card-stack-view/1.0.0-beta9/f78e710a30a349b574aa1943254e11b76d131f1e/card-stack-view-1.0.0-beta9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,108 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/MainMenuFragment"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_44sdp"
+            android:id="@+id/tabs"
+            app:cardBackgroundColor="@color/white"
+            app:cardElevation="5dp"
+            android:elevation="3dp"
+            android:layout_alignParentBottom="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center">
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="32dp"
+                        android:scaleType="fitCenter"
+                        android:padding="3dp"
+                        android:id="@+id/binder_btn"
+                        android:src="@drawable/ic_binder_color"
+                        android:background="@color/transparent"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center">
+
+                    <ImageButton
+                        android:id="@+id/star_btn"
+                        android:layout_width="match_parent"
+                        android:layout_height="32dp"
+                        android:scaleType="fitCenter"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_mylikes_gray"
+                        android:background="@color/transparent"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center">
+
+                    <ImageButton
+                        android:id="@+id/message_btn"
+                        android:layout_width="match_parent"
+                        android:layout_height="32dp"
+                        android:scaleType="fitCenter"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_message_gray"
+                        android:background="@color/transparent"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center">
+
+                    <ImageButton
+                        android:id="@+id/profile_btn"
+                        android:layout_width="match_parent"
+                        android:layout_height="32dp"
+                        android:background="@color/transparent"
+                        android:padding="3dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/ic_profile_gray" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <com.qboxus.binderstatic.MainMenu.CustomViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/tabs"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="coloraccent">#fa6565</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#2F2F2F</color>
+    <color name="blue">#2781eb</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="dimgray">#696969</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="light_white">#fffefe</color>
+    <color name="pink_color">#fa6565</color>
+
+    <color name="gray">#BDBEC2</color>
+
+    <color name="purple_color">#6c2fbb</color>
+    <color name="light_purple_color">#a532e5</color>
+
+    <color name="newGrayColor">#e3ebf2</color>
+    <color name="newLightGray">#b8bbc2</color>
+
+    <color name="boostColor">#f4f6fa</color>
+
+    <color name="fifty_black">#802F2F2F</color>
+
+</resources>

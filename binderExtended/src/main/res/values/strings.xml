@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="my_Rewarded_Add" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+
+
+    <attr name="overlaySurface" format="boolean" />
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="unlimited_rewinds">Unlimited Rewinds</string>
+    <string name="free_superlike_a_day">5 Free SuperLikes A Day</string>
+    <string name="unlimited_boost">Unlimited Boost</string>
+    <string name="_19_99">$19.99</string>
+    <string name="per_month">Per Month</string>
+    <string name="_29_99">$29.99</string>
+    <string name="_3_months">3 months</string>
+    <string name="_69_99">$69.99</string>
+    <string name="_1_year">1 year</string>
+    <string name="continue_txt">Continue</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="subscription_txt">By tapping “Continue”, your payment will be charged to your Google Play
+        account, and your subscription will automatically renew for the same
+        package length at the same price until you cancel it in settings in the
+        Google Play store at least 24 hours prior to the end of the current period.
+        By tapping “Continue”, you agree to our Privacy Policy and Terms.</string>
+    <string name="recuring_billing_cancel_anytime">Recuring billing, cancel anytime.</string>
+
+
+    <string name="introducting_binder_boost">Introducing Binder Boost</string>
+    <string name="skip_the_line">Skip the Line</string>
+    <string name="be_the_top_profile_in_your_area_for_30_minutes_and_get_more_watchs">Be the top profile in your area for 30 minutes and get more watchs</string>
+    <string name="boost_me">Boost Me</string>
+    <string name="_08_85_remaining">00:00 Remaining</string>
+    <string name="you_re_being_seen_by_more_people_keep_swiping_for_the_best_results">You\'re being seen by more people.Keep swiping for the best results!</string>
+
+
+    <string name="_0_likes">0 Likes</string>
+
+
+    <string name="get_the_rewind">Get the Rewind</string>
+
+
+    <string name="upgrade_to_gold_to_see_people_n_who_already_likes_you">Upgrade to Gold to see people\n Who already likes you.</string>
+    <string name="no_other_users_like_your_profile_so_far_subscribe_us_and_boost_your_profile_so_more_user_can_see_you">No other users like your profile so far. Subscribe us and boost your profile so more user can see you.</string>
+    <string name="see_who_likes_you">See who likes you</string>
+
+
+    <string name="okay">OKAY</string>
+    <string name="boost">Boost </string>
+    <string name="save_14">SAVE 14%</string>
+    <string name="save_34">SAVE 34%</string>
+
+
+    <string name="boostDescription">You need</string>
+    <string name="boostDescription1">credit to get more matches.\nTop-up credits now - the more you buy\nthe cheaper they are.</string>
+    <string name="videocall">Video Call</string>
+    <string name="videocallDescription">You need</string>
+    <string name="videocallDescription1">credit to do a video call.\nTop-up credits now - the more you buy\nthe cheaper they are.</string>
+    <string name="superlike">SuperLike</string>
+    <string name="superlikeDescription">Make a bold first move and show someone how interested you are. Top-up credits now - the more you buy the cheaper they are.</string>
+    <string name="boost_with_wallet">BOOST WITH WALLET</string>
+    <string name="_1_boost_with_">(1 boost with </string>
+    <string name="coins_">coins)</string>
+    <string name="or">or</string>
+    <string name="get_binder_gold">GET BINDER GOLD</string>
+    <string name="_1_free_boost_every_month">(1 free boost every month)</string>
+    <string name="credits">credits</string>
+    <string name="videos"> videos</string>
+    <string name="get_free_credits">Get Free Credits</string>
+    <string name="pick_one_of_the_below_options_and_receive_nfree_credits">Pick one of the below options and receive\nfree credits!</string>
+    <string name="Remaining">Remaining</string>
+    <string name="continue_capital">CONTINUE</string>
+
+    <string name="likes">Likes</string>
+
+</resources>
+
+
+
+
+
+

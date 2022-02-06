@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="photo_access">الوصول إلى الصور</string>
+    <string name="to_upload_photos_from">لتحميل الصور من جهازك ،\nيحتاج Binder للوصول إلى ملف\nالصور.\nالرجاء الضغط\'تسمح\' في الخطوة التالية.</string>
+
+    <string name="okay">حسنا</string>
+
+    <string name="free">حر</string>
+    <string name="credits_capital">الاعتمادات</string>
+
+</resources>
